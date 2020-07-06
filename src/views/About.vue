@@ -4,8 +4,11 @@
     <v-row align="center" justify="center">
       <v-col class="text-center">
         <div class="about-text">A simple JSON file uploader.</div>
-        <v-btn to="/" outlined color="secondary">
-          <v-icon>mdi-heart</v-icon> GitHub
+        <v-btn href="https://github.com/RokSkrbec/JSON-server" outlined color="secondary" class="mr-2">
+          <v-icon>mdi-heart</v-icon> github server
+        </v-btn>
+        <v-btn href="https://github.com/RokSkrbec/JSON-application" outlined color="secondary">
+          <v-icon>mdi-heart</v-icon> github application
         </v-btn>
         <v-img
           class="about-image"
